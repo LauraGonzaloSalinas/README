@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## 🧑🏻‍💻 Sobre mí
 
 Soy **Laura Gonzalo Salinas**, estudiante de programación con interés en crear aplicaciones modernas, eficientes y bien estructuradas. 
 
@@ -35,5 +35,6 @@ Me gusta explorar nuevos lenguajes y herramientas, mejorar mi lógica de program
 - Trabajando en proyectos académicos
 
 ---
+
 
 ⭐ *Este perfil forma parte de mi aprendizaje en desarrollo de software y servirá para compartir proyectos y prácticas durante mi formación.*
